@@ -41,7 +41,7 @@ public class Main implements Comparable{
         }
         else {
             System.out.println("argument not supported");
-            System.exit(0);
+            System.exit(1);
 
         }
 
